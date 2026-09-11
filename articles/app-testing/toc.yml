@@ -236,6 +236,8 @@ items:
           href: playwright-workspaces/how-to-manage-authentication.md
         - name: Use service package options
           href: playwright-workspaces/how-to-use-service-config-file.md
+        - name: Automate browsers with the Playwright Workspaces remote MCP server
+          href: playwright-workspaces/how-to-pww-remote-mcp-server.md
     - name: Tutorials
       items: 
         - name: Accelerate Playwright test run and troubleshoot efficiently
